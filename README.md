@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Thanishya
 
-<!--
-**Thanishya82/Thanishya82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a computer science student interested in programming, machine learning, and software development. I'm building projects to strengthen my technical skills and gain practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently learning Python and C
+- Exploring Machine Learning and Data Science
+- Practising problem-solving and programming fundamentals
+- Building projects to apply what I learn
+
+## Technologies
+
+- **Languages:** Python, C
+- **Libraries:** NumPy, Pandas, scikit-learn
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## Projects
+
+I'm currently working on projects to apply my programming and machine learning knowledge. I'll showcase them here as I build and document them.
+
+## Goals
+
+- Improve my programming skills
+- Build practical projects
+- Learn software development best practices
+- Contribute to open-source projects
+
+Thanks for visiting my profile!
