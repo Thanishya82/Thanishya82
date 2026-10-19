@@ -29,3 +29,8 @@ I'm currently working on projects to apply my programming and machine learning k
 - Contribute to open-source projects
 
 Thanks for visiting my profile!
+
+
+## Connect
+
+- GitHub: [Thanishya82](https://github.com/Thanishya82)
